@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/YUC7H7a.png)
-# AdvancedWorld - PlaceholderAPI Expansion
+# WIP: AdvancedWorld - PlaceholderAPI Expansion
 ## About AdvancedWorld
 AdvancedWorld is an expansion for the PlaceholderAPI Spigot plugin. This expansion aims to be a full implementation of the Paper API's world-related get methods. 
 AdvancedWorld aims to be a feature-packed expansion, therefore various world-related methods might be added in the future which depend on other plugins to work, such as Vault.
